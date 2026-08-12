@@ -1,1 +1,0 @@
-ADAPTER_PATH = "./mistral_hr"
